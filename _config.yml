@@ -28,7 +28,7 @@ author:
   pronouns         : "he/him/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "San Luis Obispo, CA USA"
-  employer         : "California Polytechnic State University, San Luis Obispo"
+  employer         : "California Polytechnic State \n University, San Luis Obispo"
   uri              : # URL
   email            : "johnnyrourkev@gmail.com" 
 
