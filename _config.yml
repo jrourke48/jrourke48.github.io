@@ -9,8 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Johnny Rourke V / Site Title"
-title_separator          : "-"
+title                    : "Johnny Rourke V Maker Portfolio" 
 name                     : &name "Johnny Rourke V"
 description              : &description "Johnny Rourke V's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
